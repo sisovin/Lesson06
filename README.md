@@ -1,17 +1,18 @@
-Lesson 06: Array
+# Lesson 06: Array
 
-Code Description:
+## Code Description:
 
 This is a Python script that demonstrates various array-related operations, such as:
 
-Creating and manipulating lists
-Checking membership and indexing
-Slicing and sorting
-Removing and inserting elements
-Using tuples to store data
-Converting between lists and tuples
-Using count() method on tuples
-Code Purpose:
+- Creating and manipulating lists
+- Checking membership and indexing
+- Slicing and sorting
+- Removing and inserting elements
+- Using tuples to store data
+- Converting between lists and tuples
+- Using count() method on tuples
+
+## Code Purpose:
 
 This code is a tutorial or educational script that teaches the basics of working with arrays (lists and tuples) in Python. It provides examples and explanations for various array-related operations, making it suitable for beginners learning Python programming.
 
